@@ -6,7 +6,7 @@ Your Name, yourcontact@ucsd.edu
 
 ## Abstract Proposal
 
-FIRST STEP: Write up a description (in the form of an abstract) of what you will revisit for your final project. This should be one paragraph clearly describing your concept and approach. What are your desired creative goals? How are you expanding on something we covered in the class? How will you present your work next Wednesday in the final project presentations? 
+For my final project, I want to continue my original proposal for my generated visual. I want to use images scraped from the nike.com to generate images of nike shoes, then create posters for a fictional nike campaign in which new shoe designs are created by machine learning. 
 
 ## Project Report
 
