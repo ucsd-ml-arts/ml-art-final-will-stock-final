@@ -12,13 +12,11 @@ report.pdf
 
 ## Model/Data
 
-nike 224_2 - Training dataset
+nike 224_2.zip - Training dataset
 ImageGeneratorDCGAN-old - GAN for image generation
 
 ## Code
 
-Your code for generating your project:
-- Python: generative_code.py
 - Jupyter notebooks: generative_code.ipynb
 
 ## Results
