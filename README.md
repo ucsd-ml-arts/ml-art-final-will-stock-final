@@ -1,8 +1,6 @@
 # Final Project
 
-Your Name, yourcontact@ucsd.edu
-
-(Your teammates' contact info, if appropriate)
+Will Stock, wstock@ucsd.edu
 
 ## Abstract Proposal
 
