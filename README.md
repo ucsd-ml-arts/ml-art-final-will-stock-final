@@ -4,17 +4,16 @@ Will Stock, wstock@ucsd.edu
 
 ## Abstract Proposal
 
-For my final project, I want to continue my original proposal for my generated visual. I want to use images scraped from the nike.com to generate images of nike shoes, then create posters for a fictional nike campaign in which new shoe designs are created by machine learning. 
+For my final project, I continued my original proposal for my generated visual. I want to use images scraped from nike.com to generate images of Nike shoes, then create posters for a fictional Nike campaign in which new shoe designs are created by machine learning. I wanted these posters to emulate print Nike ads from the 1980s and 90s, which I find very visually appealing.
 
 ## Project Report
 
-Upload your project report (4 pages) as a pdf with your repository, following this template: [google docs](https://drive.google.com/open?id=1mgIxwX1VseLyeM9uPSv5GJQgRWNFqtBZ0GKE9d4Qxww).
+report.pdf
 
 ## Model/Data
 
-Briefly describe the files that are included with your repository:
-- trained models
-- training data (or link to training data)
+nike 224_2 - Training dataset
+ImageGeneratorDCGAN-old - GAN for image generation
 
 ## Code
 
@@ -25,22 +24,15 @@ Your code for generating your project:
 ## Results
 
 Documentation of your results in an appropriate format, both links to files and a brief description of their contents:
-- What you include here will very much depend on the format of your final project
-  - image files (`.jpg`, `.png` or whatever else is appropriate)
-  - 3d models
-  - movie files (uploaded to youtube or vimeo due to github file size limits)
-  - audio files
-  - ... some other form
+
+poster_1-01.png - output poster 1
+poster_1-02.png - output poster 2
+poster_1-03.png - output poster 3
 
 ## Technical Notes
 
 Any implementation details or notes we need to repeat your work. 
-- Does this code require other pip packages, software, etc?
-- Does it run on some other (non-datahub) platform? (CoLab, etc.)
+- Runs fine on datahub without any extra packages!
 
 ## Reference
-
-References to any papers, techniques, repositories you used:
-- Papers
-- Repositories
-- Blog posts
+https://github.com/gsurma/image_generator
